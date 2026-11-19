@@ -4,14 +4,6 @@ I work at the intersection of **cloud security** and **product engineering**. I 
 
 ---
 
-## 🔐 Cloud Security
-
-Cloud security labs (AWS posture assessment, Terraform IaC, Microsoft Entra ID) are being published over the coming weeks.
-
-`AWS` `Microsoft Entra ID` `Terraform` `Prowler` `CIS Benchmarks` `IAM` `Conditional Access` `PIM` `Zero Trust` `Python`
-
----
-
 ## 📱 Product Design & App Development
 
 | Project | What it is | Stack |
